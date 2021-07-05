@@ -1,0 +1,33 @@
+{
+  "name": "@8pay/deployments",
+  "version": "0.0.0",
+  "description": "An helper module that keeps track of all 8pay's deployments.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "lint:fix": "eslint --ignore-path .gitignore . --fix",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8pay/deployments.git"
+  },
+  "keywords": [
+    "8pay",
+    "deployment",
+    "artifacts",
+    "contracts",
+    "abi"
+  ],
+  "author": "8pay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8pay/deployments/issues"
+  },
+  "homepage": "https://github.com/8pay/deployments#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.26.0",
+    "mocha": "^8.4.0"
+  }
+}
