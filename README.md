@@ -26,3 +26,4 @@ console.log(contract);
 ## Supported networks
 
 * BSC
+* SANDBOX
