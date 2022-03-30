@@ -26,4 +26,5 @@ console.log(contract);
 ## Supported networks
 
 * BSC
+* ETHEREUM
 * SANDBOX
