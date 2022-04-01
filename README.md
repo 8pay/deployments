@@ -27,4 +27,5 @@ console.log(contract);
 
 * BSC
 * ETHEREUM
+* POLYGON
 * SANDBOX
